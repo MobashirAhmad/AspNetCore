@@ -5,3 +5,4 @@ Enable local HTTPS
 Run the app
  cd AspNetCoreApp
  dotnet run
+Browse to https://localhost:5001/
