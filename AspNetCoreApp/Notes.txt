@@ -1,0 +1,7 @@
+Create a web app project
+ dotnet new webapp -o AspNetCoreApp
+Enable local HTTPS
+ dotnet dev-certs https --trust
+Run the app
+ cd AspNetCoreApp
+ dotnet run
